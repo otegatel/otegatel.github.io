@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otegatel.github.io/sitemap
+Sitemap: https://otegatel.github.io/app/sitemap
+Sitemap: https://otegatel.github.io/assets/sitemap
+Sitemap: https://otegatel.github.io/css/sitemap
+Sitemap: https://otegatel.github.io/includes/sitemap
+Sitemap: https://otegatel.github.io/item/sitemap
+Sitemap: https://otegatel.github.io/src/sitemap
